@@ -1,0 +1,2 @@
+Motion detection using OpenCV.
+
